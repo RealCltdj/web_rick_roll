@@ -9,3 +9,5 @@ put whole folder somewhere in project and refrence egg.js with code
 probably do not use on login pages, logs keys
 
 requires bootstrap for modal
+https://getbootstrap.com/
+
